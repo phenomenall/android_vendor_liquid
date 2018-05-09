@@ -120,7 +120,7 @@ PRODUCT_PACKAGES += \
     Eleven \
     Gallery2 \
     Jelly \
-    Launcher3
+    launcherS
 
 # Liquid packages
 PRODUCT_PACKAGES += \
