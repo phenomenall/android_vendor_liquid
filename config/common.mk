@@ -125,7 +125,10 @@ PRODUCT_PACKAGES += \
 # Liquid packages
 PRODUCT_PACKAGES += \
     LiquidLounge \
-    LiquidOTA
+    LiquidOTA \
+    phonograph \
+    Stk \
+    Camera
 
 # Optional packages
 PRODUCT_PACKAGES += \
