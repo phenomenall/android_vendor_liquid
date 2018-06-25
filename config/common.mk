@@ -126,7 +126,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     LiquidLounge \
     LiquidOTA \
-    phonograph \
+    Retro \
     Stk \
     Camera
 
